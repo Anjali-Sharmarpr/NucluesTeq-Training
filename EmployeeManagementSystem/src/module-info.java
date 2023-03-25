@@ -5,5 +5,5 @@
  * @author Nisha
  *
  */
-module EmployeeManagement {
+module EmployeeManagementSystem {
 }
