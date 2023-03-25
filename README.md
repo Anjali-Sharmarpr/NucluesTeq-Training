@@ -12,3 +12,6 @@ Navigate to all branches to show Assignments Week wise
 <li>
 <a href = "https://github.com/Anjali-Sharmarpr/NucluesTeq-Training/tree/Week4"> Week 4</a>
 </li>
+<li>
+<a href = "https://github.com/Anjali-Sharmarpr/NucluesTeq-Training/tree/Week-5"> Week 5</a>
+</li>
