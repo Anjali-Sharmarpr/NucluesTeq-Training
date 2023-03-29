@@ -17,7 +17,3 @@ NucleusTeq Training Assignments week wise
 --> Added 'Sets' Programs present inside 'Sets' package.
 <br>
 --> Added 'HashMap' Program inside 'Map' package.
-<<br>
-30-03-2023
-<br>
---> Added Cursor topic programs
