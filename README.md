@@ -15,3 +15,5 @@ NucleusTeq Training Assignments week wise
 29-03-2023
 <br>
 --> Added 'Sets' Programs present inside 'Sets' package.
+<br>
+--> Added 'HashMap' Program inside 'Map' package.
