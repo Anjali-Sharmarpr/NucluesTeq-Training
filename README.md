@@ -17,6 +17,12 @@ NucleusTeq Training Assignments week wise
 --> Added 'Sets' Programs present inside 'Sets' package.
 <br>
 --> Added 'HashMap' Program inside 'Map' package.
+<br>
 30-03-2023
 <br>
 --> Added 'Cursor in Collections' Programs into 'Other Programs' folder.
+<br>
+31-03-2023
+<br>
+--> Added other topics programs from week 6
+--> Includes Lambda Function, Stream Api, Default Method Interfaces, Comparator & Comparable, Serialization and Deserialization.
