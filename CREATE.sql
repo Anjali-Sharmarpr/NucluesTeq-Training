@@ -1,6 +1,6 @@
 Use Practice;
 
-/*
+
 CREATE TABLE Student (
   s_id INT PRIMARY KEY,
   name VARCHAR(40),
@@ -44,7 +44,7 @@ select * from student;
 update student
 set course_id=1
 where s_id=1;
-*/
+
 
 
 

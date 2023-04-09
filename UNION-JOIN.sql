@@ -1,20 +1,20 @@
-/* alias the column name
+/* alias the column name*/
 
 select name as StudentName
-from  Student; */
+from  Student; 
 
-/* union - (results comes in single coumn
+/* union - results comes in single coumn */
 select name as StudentName 
 from Student
 union 
 select course_name asCourseName
-from Course; */
-/*
+from Course; 
+
 select Course.course_name ,Course.course_id
 from Course
 union all
 select Faculty.faculty_name,Salary
-from Faculty; */
+from Faculty; 
 
 /* INNER JOIN selects records that have matching values in both tables */
 
@@ -22,14 +22,15 @@ SELECT Student.s_id,Student.course_id, Course.course_name
 FROM Student  
 INNER JOIN Course
 ON Student.course_id = Course.course_id; 
-/*
+
+
 Select faculty_name,course_name
 from Faculty
 inner join Course
 on Faculty.faculty_id=Course.faculty_id;  */
 
-/*
-left join returns all the values from left table and the matching values from the right table. 
+
+/*LEFT JOIN returns all the values from left table and the matching values from the right table. 
 If there is no matching join value, it will return NULL. */
 
 SELECT Student.s_id,Student.course_id, Course.course_name  

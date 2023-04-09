@@ -1,18 +1,18 @@
 Use sql_tutorial;
 
-/*CREATE TABLE StudentData(
+CREATE TABLE StudentData(
 ID INT PRIMARY KEY,
 Name VARCHAR(20),
 Course VARCHAR(20),
 PhoneNumber INT,
 Email VARCHAR(20),
 Address VARCHAR(50)
- );*/
+ );
  
- /*
+ 
   INSERT INTO StudentData
  VALUES(1,"Anjali Sharma", "Computer",125467893,"akjdsjdm@gmail.com","Raipur");*/
- /*
+ 
  INSERT INTO StudentData
  VALUES (2,"Pooja Sharma", "Medical",15653265,"nkjdhkd@gmail.com","Raipur"),
         (3,"Jaya Sharma", "Arts",15456456,"hwgdyu@gmail.com","Raipur"),
@@ -30,10 +30,7 @@ Address VARCHAR(50)
         (15,"Nachiketa Mohanty", "Civil Service",76134891,"owiwosqa@gmail.com","Bhopal");
   
   SELECT *from StudentData;
-*/
 
-/*DROP TABLE Course;*/
-/*
 CREATE TABLE Course(
 Course_ID INT PRIMARY KEY,
 Course VARCHAR(20),
@@ -43,7 +40,7 @@ CourseFaculty VARCHAR(20),
 FOREIGN KEY (Course_ID) REFERENCES StudentData(ID)
 
 );
-*/
+
 INSERT INTO Course
 VALUES (1,"Arts",3,"Ram Sir"),
        (2,"BioTech",5,"Geeta Mam"),

@@ -1,5 +1,5 @@
 use practice;
-/*
+
 Insert Into Faculty
 Values (1,"Rahul Dubey","M",20000),
        (2,"Anil Sharma","M",10000),
@@ -14,9 +14,8 @@ values(1,"Computer Science",2),
       (4,"Electronics",3),
       (5,"Medical",5),
       (6,"Bio Technology",5);
-      */
-      /*
-      delete from Student;
+      
+      
 insert into Student
 values(1,"Anjali Sharma","F",8,14862479,"anjali@gmail.com","Raipur",5),
        (2,"Pooja Sharma","F",5,4786279,"pooja@gmail.com","Durg",4),
