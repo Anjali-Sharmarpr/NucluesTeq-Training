@@ -38,12 +38,6 @@ public class Controller {
 			return this.studentService.getStudentsById(id);
 		}
 		
-		//get students by course
-		/*
-		@GetMapping("/students/{course}")
-		public ArrayList<Students> getStudentsbyCourse(@PathVariable("course")String course){
-			return this.studentService.getStudentsByCourse(course);
-		}*/
 
 		//add students 
 		
